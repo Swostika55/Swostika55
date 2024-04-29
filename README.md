@@ -1,6 +1,9 @@
 Hello, I'm Swostika Khanal! 👋
 
-I'm an IT student with a passion for web development and content writing. Currently, I work as a Content Writer at Himalayan Masters, where I create engaging and informative content about trekking and adventure in the Himalayas.
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,content_writing,)](https://skillicons.dev)
+
+I'm an IT student with a passion for web development and content writing. 
 
 **About Me**
 
